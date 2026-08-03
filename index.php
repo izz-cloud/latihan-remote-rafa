@@ -2,6 +2,7 @@
 
 /**
  * index.php — Entry point utama aplikasi Inventaris Sekolah kita.
+ * wowowowow
  * Session auth dibajak di includes/header.php
  */
 require_once 'includes/header.php';
