@@ -15,3 +15,4 @@ $stmt = $pdo->prepare("
 ");
 $stmt->execute();
 var_dump($stmt->fetchAll());
+//rafa//
