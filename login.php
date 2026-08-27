@@ -1,7 +1,7 @@
 <?php
 
 /**
- * login.php — Halaman Login Sistem Inventaris siswa
+ * login.php — Halaman Login Sistem Inventaris siswa.
  */
 session_start();
 

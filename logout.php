@@ -1,7 +1,7 @@
 <?php
 
 /**
- * logout.php — Hapus session dan redirect ke login
+ * logout.php — Hapus session dan redirect ke logina
  */
 session_start();
 if (!empty($_SESSION['user_id'])) {
